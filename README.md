@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on projects.
 - 
-- 📫 How to reach me akhiles90052gmail.com
+- 📫 How to reach me akhiles9005@gmail.com
 
 
 <!---
